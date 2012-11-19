@@ -1,0 +1,15 @@
+pt-PT:
+  contact_us: Contacto
+  send_message: Enviar Mensagem
+  subject: Assunto
+  optional: opcional
+  message: Mensagem
+  order_number: Nº Ordem (Se o motivo do contacto for uma encomenda)
+  topic: Tópico
+  invalid_order_number: "deve começar com a letra R seguinda de 9 algarismos (Ex. R123123213)"
+  contact_thank_you: "Obrigado! A sua mensagem foi enviado com sucesso! Entraremos em contacto consigo brevemente."
+  contact_topics: Tópicos de Contacto
+  contact_topics_description: Configurar os tópicos para o formulário de contacto. Escolha o endereço e-mail para o qual o tópico deverá ser enviado.
+  emails: E-mails
+  new_contact_topic: Novo Tópico de Contacto
+  comma_delimited: delimitado por vírgulas
